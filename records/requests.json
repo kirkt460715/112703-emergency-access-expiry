@@ -1,0 +1,26 @@
+[
+  {
+    "id": "ticket-a",
+    "actor": "x",
+    "region": "east",
+    "case": "E1",
+    "allowed": [
+      "contact_view"
+    ],
+    "approved_by": "y",
+    "approved_at": 41,
+    "scheduled_end": 62
+  },
+  {
+    "id": "end-a",
+    "case": "E1",
+    "ended_at": 51
+  },
+  {
+    "id": "ticket-b",
+    "actor": "x",
+    "region": "west",
+    "case": "W3",
+    "approved_by": null
+  }
+]

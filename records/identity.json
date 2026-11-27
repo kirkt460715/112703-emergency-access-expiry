@@ -1,0 +1,15 @@
+[
+  {
+    "id": "actor-x",
+    "actor": "x",
+    "assurance": "strong",
+    "at": 38,
+    "on_shift_until": 70
+  },
+  {
+    "id": "leader-y",
+    "actor": "y",
+    "role": "supervisor",
+    "until": 55
+  }
+]

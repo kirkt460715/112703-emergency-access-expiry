@@ -1,0 +1,31 @@
+[
+  {
+    "id": "use-1",
+    "ticket": "ticket-a",
+    "case": "E1",
+    "point": "east-desk",
+    "operation": "contact_view",
+    "at": 48
+  },
+  {
+    "id": "use-2",
+    "ticket": "ticket-a",
+    "case": "E1",
+    "point": "joint-desk",
+    "operation": "contact_view",
+    "at": 52,
+    "reported_at": 56
+  },
+  {
+    "id": "ack-east",
+    "ticket": "ticket-a",
+    "point": "east-desk",
+    "revocation_applied_at": 53
+  },
+  {
+    "id": "ack-joint",
+    "ticket": "ticket-a",
+    "point": "joint-desk",
+    "revocation_applied_at": null
+  }
+]
